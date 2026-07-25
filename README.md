@@ -13,10 +13,10 @@ A modern, responsive website built for <b>Tricore Studio</b> — an AI & digital
 </p>
 
 <p align="center">
-  <a href="[https://tricorestudio-website.vercel.app/](https://tricorestudio-website.vercel.app/)">Live Website</a> •
-  <a href="https://www.instagram.com/stories/tricorestudio_/">Instagram</a>
+  🔗 <a href="https://tricorestudio-website.vercel.app/">Website</a>
+  &nbsp; • &nbsp;
+  📱 <a href="https://www.instagram.com/tricorestudio_/">Instagram</a>
 </p>
-
 
 ---
 
